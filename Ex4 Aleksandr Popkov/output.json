@@ -1,0 +1,83 @@
+[
+    {
+        "answer_text": "This is your question: \"Who won a Norbert Wiener Award for Social and Professional Responsibility?\"",
+        "named_entities": {
+            "http://dbpedia.org/resource/Norbert_Wiener": "Norbert Wiener",
+            "http://dbpedia.org/resource/Professional_responsibility": "Professional Responsibility"
+        },
+        "relation": [
+            "http://dbpedia.org/ontology/writer"
+        ]
+    },
+    {
+        "answer_text": "This is your question: \"What awards have been given to Screenwriters?\"",
+        "named_entities": {},
+        "relation": [
+            "http://dbpedia.org/ontology/genre"
+        ]
+    },
+    {
+        "answer_text": "This is your question: \"In which races have Tillingdale's horses participated?\"",
+        "named_entities": {
+            "http://dbpedia.org/resource/Horse": "horse"
+        },
+        "relation": [
+            "http://dbpedia.org/ontology/location"
+        ]
+    },
+    {
+        "answer_text": "This is your question: \"Which office's people have died on the US Route 165?\"",
+        "named_entities": {},
+        "relation": [
+            "http://dbpedia.org/ontology/writer"
+        ]
+    },
+    {
+        "answer_text": "This is your question: \"List the show related to the which was followed by Doctor Who Extra?\"",
+        "named_entities": {
+            "http://dbpedia.org/resource/Doctor_Who": "Doctor Who"
+        },
+        "relation": [
+            "http://dbpedia.org/ontology/writer"
+        ]
+    },
+    {
+        "answer_text": "This is your question: \"What is the predecessor of the automobile which is the related of Cadillac Fleetwood?\"",
+        "named_entities": {
+            "http://dbpedia.org/resource/Car": "automobile",
+            "http://dbpedia.org/resource/Cadillac_Fleetwood": "Cadillac Fleetwood"
+        },
+        "relation": [
+            "http://dbpedia.org/ontology/genre"
+        ]
+    },
+    {
+        "answer_text": "This is your question: \"Which country's largest city is Lima?\"",
+        "named_entities": {
+            "http://dbpedia.org/resource/City": "city",
+            "http://dbpedia.org/resource/Lima_District": "Lima"
+        },
+        "relation": [
+            "http://dbpedia.org/ontology/birthPlace"
+        ]
+    },
+    {
+        "answer_text": "This is your question: \"List the show related to the which was followed by Doctor Who Extra?\"",
+        "named_entities": {
+            "http://dbpedia.org/resource/Doctor_Who": "Doctor Who"
+        },
+        "relation": [
+            "http://dbpedia.org/ontology/writer"
+        ]
+    },
+    {
+        "answer_text": "This is your question: \"What is the predecessor of the automobile which is the related of Cadillac Fleetwood?\"",
+        "named_entities": {
+            "http://dbpedia.org/resource/Car": "automobile",
+            "http://dbpedia.org/resource/Cadillac_Fleetwood": "Cadillac Fleetwood"
+        },
+        "relation": [
+            "http://dbpedia.org/ontology/genre"
+        ]
+    }
+]

@@ -1,0 +1,1985 @@
+[
+    {
+        "id": "1501",
+        "question": "How many movies did Stanley Kubrick direct?",
+        "question_preprocessed": [
+            "How",
+            "many",
+            "movie",
+            "Stanley",
+            "Kubrick",
+            "direct"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Stanley_Kubrick": "Stanley Kubrick"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Stanley_Kubrick": "Stanley Kubrick"
+        }
+    },
+    {
+        "id": "2586",
+        "question": "Which city's foundeer is John Forbes?",
+        "question_preprocessed": [
+            "Which",
+            "city",
+            "foundeer",
+            "John",
+            "Forbes"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/City": "city",
+            "http://dbpedia.org/resource/Forbes_baronets": "John Forbes"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/City": "city",
+            "http://dbpedia.org/resource/Forbes_baronets": "John Forbes"
+        }
+    },
+    {
+        "id": "2653",
+        "question": "What is the river whose mouth is in deadsea?",
+        "question_preprocessed": [
+            "What",
+            "river",
+            "whose",
+            "mouth",
+            "deadsea"
+        ],
+        "named_entities": {},
+        "named_entities_preprocessed": {}
+    },
+    {
+        "id": "1055",
+        "question": "What is the allegiance of John Kotelawala ?",
+        "question_preprocessed": [
+            "What",
+            "allegiance",
+            "John",
+            "Kotelawala"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/John_Kotelawala": "John Kotelawala"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/John_Kotelawala": "John Kotelawala"
+        }
+    },
+    {
+        "id": "705",
+        "question": "How many races have the horses bred by Jacques Van't Hart participated in?",
+        "question_preprocessed": [
+            "How",
+            "many",
+            "race",
+            "horse",
+            "bred",
+            "Jacques",
+            "Vant",
+            "Hart",
+            "participated"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Hart_Memorial_Trophy": "Hart"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Horse_racing": "race horse",
+            "http://dbpedia.org/resource/Vant_(band)": "Vant",
+            "http://dbpedia.org/resource/Hart_Memorial_Trophy": "Hart"
+        }
+    },
+    {
+        "id": "106",
+        "question": "What is the incumbent of the Al Gore presidential campaign, 2000 and also the president of the Ann Lewis ?",
+        "question_preprocessed": [
+            "What",
+            "incumbent",
+            "Al",
+            "Gore",
+            "presidential",
+            "campaign",
+            "2000",
+            "also",
+            "president",
+            "Ann",
+            "Lewis"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Al_Gore_presidential_campaign,_2000": "Al Gore presidential campaign, 2000",
+            "http://dbpedia.org/resource/Ann_Lewis": "Ann Lewis"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Al_Gore": "Al Gore",
+            "http://dbpedia.org/resource/Ann_Lewis": "Ann Lewis"
+        }
+    },
+    {
+        "id": "589",
+        "question": "What is the region of Tom Perriello ?",
+        "question_preprocessed": [
+            "What",
+            "region",
+            "Tom",
+            "Perriello"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Tom_Perriello": "Tom Perriello"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Tom_Perriello": "Tom Perriello"
+        }
+    },
+    {
+        "id": "2468",
+        "question": "What layout can be found in cars similar to the Subaru Outback?",
+        "question_preprocessed": [
+            "What",
+            "layout",
+            "found",
+            "car",
+            "similar",
+            "Subaru",
+            "Outback"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Subaru_Outback": "Subaru Outback"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Subaru_Outback": "Subaru Outback"
+        }
+    },
+    {
+        "id": "2413",
+        "question": "Starwood operates in which places?",
+        "question_preprocessed": [
+            "Starwood",
+            "operates",
+            "place"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Starwood_Festival": "Starwood"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Starwood_Festival": "Starwood"
+        }
+    },
+    {
+        "id": "1600",
+        "question": "Name the mascot of Austin College ?",
+        "question_preprocessed": [
+            "Name",
+            "mascot",
+            "Austin",
+            "College"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Mascot": "mascot",
+            "http://dbpedia.org/resource/Austin_College": "Austin College"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Mascot": "mascot",
+            "http://dbpedia.org/resource/Austin_College": "Austin College"
+        }
+    },
+    {
+        "id": "2464",
+        "question": "What was the university of the rugby player who coached the Stanford rugby teams during 1906-1917?",
+        "question_preprocessed": [
+            "What",
+            "university",
+            "rugby",
+            "player",
+            "coached",
+            "Stanford",
+            "rugby",
+            "team",
+            "19061917"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Stanford_University": "Stanford"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Stanford_University": "Stanford"
+        }
+    },
+    {
+        "id": "228",
+        "question": "How many people live in Wilton, Connecticut?",
+        "question_preprocessed": [
+            "How",
+            "many",
+            "people",
+            "live",
+            "Wilton",
+            "Connecticut"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Wilton,_Connecticut": "Wilton, Connecticut"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Wilton,_Wiltshire": "Wilton",
+            "http://dbpedia.org/resource/Connecticut": "Connecticut"
+        }
+    },
+    {
+        "id": "915",
+        "question": "What awards did the film director of The Haunted House win ?",
+        "question_preprocessed": [
+            "What",
+            "award",
+            "film",
+            "director",
+            "The",
+            "Haunted",
+            "House",
+            "win"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Film_director": "film director",
+            "http://dbpedia.org/resource/Trimper's_Haunted_House": "The Haunted House"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Film_director": "film director",
+            "http://dbpedia.org/resource/Trimper's_Haunted_House": "The Haunted House"
+        }
+    },
+    {
+        "id": "794",
+        "question": "Name the origin of Henry Cluney ?",
+        "question_preprocessed": [
+            "Name",
+            "origin",
+            "Henry",
+            "Cluney"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Henry_Cluney": "Henry Cluney"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Henry_Cluney": "Henry Cluney"
+        }
+    },
+    {
+        "id": "3021",
+        "question": "List the things for which people of New Orleans are famous for?",
+        "question_preprocessed": [
+            "List",
+            "thing",
+            "people",
+            "New",
+            "Orleans",
+            "famous"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/New_Orleans": "New Orleans"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/New_Orleans": "New Orleans"
+        }
+    },
+    {
+        "id": "3543",
+        "question": "What sports are played in schools in the capital region?",
+        "question_preprocessed": [
+            "What",
+            "sport",
+            "played",
+            "school",
+            "capital",
+            "region"
+        ],
+        "named_entities": {},
+        "named_entities_preprocessed": {}
+    },
+    {
+        "id": "1073",
+        "question": "What company brought Riddim Ribbon to the market, and developed the batch monitor?",
+        "question_preprocessed": [
+            "What",
+            "company",
+            "brought",
+            "Riddim",
+            "Ribbon",
+            "market",
+            "developed",
+            "batch",
+            "monitor"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Riddim_Ribbon": "Riddim Ribbon",
+            "http://dbpedia.org/resource/Batch_Monitor_(Apple)": "batch monitor"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Riddim_Ribbon": "Riddim Ribbon",
+            "http://dbpedia.org/resource/Batch_Monitor_(Apple)": "batch monitor"
+        }
+    },
+    {
+        "id": "3351",
+        "question": "In which part of the world can i find Xynisteri and Mavro?",
+        "question_preprocessed": [
+            "In",
+            "part",
+            "world",
+            "find",
+            "Xynisteri",
+            "Mavro"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Xynisteri": "Xynisteri"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Xynisteri": "Xynisteri"
+        }
+    },
+    {
+        "id": "1744",
+        "question": "which awards have been given to people who fought in the Battle of France?",
+        "question_preprocessed": [
+            "award",
+            "given",
+            "people",
+            "fought",
+            "Battle",
+            "France"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/France": "France"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/France": "France"
+        }
+    },
+    {
+        "id": "1084",
+        "question": "Name the resting place of Charles Edward Magoon ?",
+        "question_preprocessed": [
+            "Name",
+            "resting",
+            "place",
+            "Charles",
+            "Edward",
+            "Magoon"
+        ],
+        "named_entities": {},
+        "named_entities_preprocessed": {}
+    },
+    {
+        "id": "926",
+        "question": "Who built the stadium which was rented for the 2013 Copa Centroamericana ?",
+        "question_preprocessed": [
+            "Who",
+            "built",
+            "stadium",
+            "rented",
+            "2013",
+            "Copa",
+            "Centroamericana"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/2013_Copa_Centroamericana": "Copa Centroamericana"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/2013_Copa_Centroamericana": "Copa Centroamericana"
+        }
+    },
+    {
+        "id": "3049",
+        "question": "Who was the silver medalist of Gymnastics at the 2008 Summer Olympics  Women's artistic individual all-around ?",
+        "question_preprocessed": [
+            "Who",
+            "silver",
+            "medalist",
+            "Gymnastics",
+            "2008",
+            "Summer",
+            "Olympics",
+            "Womens",
+            "artistic",
+            "individual",
+            "allaround"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Gymnastics_at_the_2008_Summer_Olympics": "2008 Summer Olympics"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/2008_Summer_Olympics": "2008 Summer Olympics"
+        }
+    },
+    {
+        "id": "1117",
+        "question": "what are some common surnames of female people?",
+        "question_preprocessed": [
+            "common",
+            "surname",
+            "female",
+            "people"
+        ],
+        "named_entities": {},
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Surname": "surname"
+        }
+    },
+    {
+        "id": "642",
+        "question": "Which company owns the manufacturer of the Edsel Ranger?",
+        "question_preprocessed": [
+            "Which",
+            "company",
+            "owns",
+            "manufacturer",
+            "Edsel",
+            "Ranger"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Edsel_Ranger": "Edsel Ranger"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Edsel_Ranger": "Edsel Ranger"
+        }
+    },
+    {
+        "id": "4767",
+        "question": "List the total number of board members who share board with Creative commons ?",
+        "question_preprocessed": [
+            "List",
+            "total",
+            "number",
+            "board",
+            "member",
+            "share",
+            "board",
+            "Creative",
+            "common"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Creative_Commons": "Creative commons"
+        },
+        "named_entities_preprocessed": {}
+    },
+    {
+        "id": "501",
+        "question": "Who is the leader of United States House of Representatives elections, 1788 and 1789 ?",
+        "question_preprocessed": [
+            "Who",
+            "leader",
+            "United",
+            "States",
+            "House",
+            "Representatives",
+            "election",
+            "1788",
+            "1789"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/United_States": "United States"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/United_States": "United States"
+        }
+    },
+    {
+        "id": "4066",
+        "question": "The fugitive Kind and the Notebook of Trigorin is written by what author?",
+        "question_preprocessed": [
+            "The",
+            "fugitive",
+            "Kind",
+            "Notebook",
+            "Trigorin",
+            "written",
+            "author"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/The_Fugitive_Kind": "The fugitive Kind"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/The_Fugitive_Kind": "The fugitive Kind"
+        }
+    },
+    {
+        "id": "333",
+        "question": "Name the mountain whose range is Sierra Nevada (U.S.) and parent mountain peak is Nevado de Toluca?",
+        "question_preprocessed": [
+            "Name",
+            "mountain",
+            "whose",
+            "range",
+            "Sierra",
+            "Nevada",
+            "US",
+            "parent",
+            "mountain",
+            "peak",
+            "Nevado",
+            "de",
+            "Toluca"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Mountain": "mountain",
+            "http://dbpedia.org/resource/Sierra_Nevada_(U.S.)": "Sierra Nevada (U.S.)",
+            "http://dbpedia.org/resource/Nevado_de_Toluca": "Nevado de Toluca"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Mountain": "mountain",
+            "http://dbpedia.org/resource/Trans-Mexican_Volcanic_Belt": "Sierra Nevada",
+            "http://dbpedia.org/resource/Nevado_de_Toluca": "Nevado de Toluca"
+        }
+    },
+    {
+        "id": "4684",
+        "question": "Where did the  designer of Monument to Salavat Yulaev die?",
+        "question_preprocessed": [
+            "Where",
+            "designer",
+            "Monument",
+            "Salavat",
+            "Yulaev",
+            "die"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Salavat,_Russia": "Salavat"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Salavat,_Russia": "Salavat"
+        }
+    },
+    {
+        "id": "486",
+        "question": "How many mammals are in the Chordate phylum?",
+        "question_preprocessed": [
+            "How",
+            "many",
+            "mammal",
+            "Chordate",
+            "phylum"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Chordate": "Chordate",
+            "http://dbpedia.org/resource/Phylum": "phylum"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Mammal": "mammal",
+            "http://dbpedia.org/resource/Chordate": "Chordate",
+            "http://dbpedia.org/resource/Phylum": "phylum"
+        }
+    },
+    {
+        "id": "1962",
+        "question": "List the battles fought by Roh Tae-woo ?",
+        "question_preprocessed": [
+            "List",
+            "battle",
+            "fought",
+            "Roh",
+            "Taewoo"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Roh_Tae-woo": "Roh Tae-woo"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Battle": "battle"
+        }
+    },
+    {
+        "id": "393",
+        "question": "Which genre of books are published by Random House?",
+        "question_preprocessed": [
+            "Which",
+            "genre",
+            "book",
+            "published",
+            "Random",
+            "House"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Random_House": "Random House"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Random_House": "Random House"
+        }
+    },
+    {
+        "id": "4842",
+        "question": "Which famous political figure appointed william cushing, and also founded Pittsburgh>",
+        "question_preprocessed": [
+            "Which",
+            "famous",
+            "political",
+            "figure",
+            "appointed",
+            "william",
+            "cushing",
+            "also",
+            "founded",
+            "Pittsburgh"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/William_Cushing": "william cushing",
+            "http://dbpedia.org/resource/Pittsburgh": "Pittsburgh"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/William_Cushing": "william cushing",
+            "http://dbpedia.org/resource/Pittsburgh": "Pittsburgh"
+        }
+    },
+    {
+        "id": "4866",
+        "question": "Which newspapers are owned by companies which are under Rolv Erik Ryssdal?",
+        "question_preprocessed": [
+            "Which",
+            "newspaper",
+            "owned",
+            "company",
+            "Rolv",
+            "Erik",
+            "Ryssdal"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Eric": "Erik"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Eric": "Erik"
+        }
+    },
+    {
+        "id": "1755",
+        "question": "Which series has an episode called The lost special and also a character named Sherlock Holmes ?",
+        "question_preprocessed": [
+            "Which",
+            "series",
+            "episode",
+            "called",
+            "The",
+            "lost",
+            "special",
+            "also",
+            "character",
+            "named",
+            "Sherlock",
+            "Holmes"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/The_Lost_Special": "The lost special",
+            "http://dbpedia.org/resource/Sherlock_Holmes": "Sherlock Holmes"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/The_Lost_Special": "The lost special",
+            "http://dbpedia.org/resource/Sherlock_Holmes": "Sherlock Holmes"
+        }
+    },
+    {
+        "id": "2515",
+        "question": "What are some Louisiana based models known for?",
+        "question_preprocessed": [
+            "What",
+            "Louisiana",
+            "based",
+            "model",
+            "known"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Louisiana": "Louisiana"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Louisiana": "Louisiana"
+        }
+    },
+    {
+        "id": "3585",
+        "question": "List the common official language of the ladonia and Empire of Atlantium ?",
+        "question_preprocessed": [
+            "List",
+            "common",
+            "official",
+            "language",
+            "ladonia",
+            "Empire",
+            "Atlantium"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Official_language": "official language",
+            "http://dbpedia.org/resource/Roman_Empire": "Empire",
+            "http://dbpedia.org/resource/Empire_of_Atlantium": "Atlantium"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Official_language": "official language",
+            "http://dbpedia.org/resource/Roman_Empire": "Empire",
+            "http://dbpedia.org/resource/Empire_of_Atlantium": "Atlantium"
+        }
+    },
+    {
+        "id": "4315",
+        "question": "What are the prizes won by the animator of The Skeleton Dance ?",
+        "question_preprocessed": [
+            "What",
+            "prize",
+            "animator",
+            "The",
+            "Skeleton",
+            "Dance"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Animator": "animator",
+            "http://dbpedia.org/resource/The_Skeleton_Dance": "The Skeleton Dance"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Animator": "animator",
+            "http://dbpedia.org/resource/The_Skeleton_Dance": "The Skeleton Dance"
+        }
+    },
+    {
+        "id": "4966",
+        "question": "Which office holder's constituency is Haight-Ashbury and has military unit as USS Kittiwake ?",
+        "question_preprocessed": [
+            "Which",
+            "office",
+            "holder",
+            "constituency",
+            "HaightAshbury",
+            "military",
+            "unit",
+            "USS",
+            "Kittiwake"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Haight-Ashbury": "Haight-Ashbury",
+            "http://dbpedia.org/resource/USS_Kittiwake_(ASR-13)": "USS Kittiwake"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/USS_Kittiwake_(ASR-13)": "USS Kittiwake"
+        }
+    },
+    {
+        "id": "2099",
+        "question": "What is the region of the ethnic group which speaks the language of Arkansas?",
+        "question_preprocessed": [
+            "What",
+            "region",
+            "ethnic",
+            "group",
+            "speaks",
+            "language",
+            "Arkansas"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Ethnic_group": "ethnic group",
+            "http://dbpedia.org/resource/Arkansas": "Arkansas"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Ethnic_group": "ethnic group",
+            "http://dbpedia.org/resource/Arkansas": "Arkansas"
+        }
+    },
+    {
+        "id": "3599",
+        "question": "What is the religion of the member of parliament who is a relative of Sarathchandra Rajakaruna?",
+        "question_preprocessed": [
+            "What",
+            "religion",
+            "member",
+            "parliament",
+            "relative",
+            "Sarathchandra",
+            "Rajakaruna"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Sarathchandra_Rajakaruna": "Sarathchandra Rajakaruna"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Sarathchandra_Rajakaruna": "Sarathchandra Rajakaruna"
+        }
+    },
+    {
+        "id": "4121",
+        "question": "What organisation regulates and controls the New Sanno Hotel?",
+        "question_preprocessed": [
+            "What",
+            "organisation",
+            "regulates",
+            "control",
+            "New",
+            "Sanno",
+            "Hotel"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/New_Sanno_Hotel": "New Sanno Hotel"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/New_Sanno_Hotel": "New Sanno Hotel"
+        }
+    },
+    {
+        "id": "29",
+        "question": "Who is the common manager of Aston Villa 2000-02 season and aldo the manager of Middlesbrough F.C. season 2009-10",
+        "question_preprocessed": [
+            "Who",
+            "common",
+            "manager",
+            "Aston",
+            "Villa",
+            "200002",
+            "season",
+            "aldo",
+            "manager",
+            "Middlesbrough",
+            "FC",
+            "season",
+            "200910"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Aston_Villa_F.C.": "Aston Villa",
+            "http://dbpedia.org/resource/Yorkshire_Carnegie": "F.C."
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Management": "manager",
+            "http://dbpedia.org/resource/Aston_Villa_F.C.": "Aston Villa",
+            "http://dbpedia.org/resource/Middlesbrough_F.C.": "Middlesbrough FC"
+        }
+    },
+    {
+        "id": "65",
+        "question": "Was Ganymede discovered by Galileo Galilei?",
+        "question_preprocessed": [
+            "Was",
+            "Ganymede",
+            "discovered",
+            "Galileo",
+            "Galilei"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Ganymede_(moon)": "Ganymede",
+            "http://dbpedia.org/resource/Galileo_Galilei": "Galileo Galilei"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Ganymede_(moon)": "Ganymede",
+            "http://dbpedia.org/resource/Galileo_Galilei": "Galileo Galilei"
+        }
+    },
+    {
+        "id": "838",
+        "question": "Name the F1 racer with relative as Ralf Schumacher and has child named Mick Schumacher?",
+        "question_preprocessed": [
+            "Name",
+            "F1",
+            "racer",
+            "relative",
+            "Ralf",
+            "Schumacher",
+            "child",
+            "named",
+            "Mick",
+            "Schumacher"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Formula_One": "F1",
+            "http://dbpedia.org/resource/Ralf_Schumacher": "Ralf",
+            "http://dbpedia.org/resource/Mick_Schumacher": "Mick Schumacher"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Formula_One": "F1",
+            "http://dbpedia.org/resource/Ralf_Schumacher": "Ralf",
+            "http://dbpedia.org/resource/Mick_Schumacher": "Mick Schumacher"
+        }
+    },
+    {
+        "id": "3906",
+        "question": "Does the Toyota Verossa have the front engine design platform?",
+        "question_preprocessed": [
+            "Does",
+            "Toyota",
+            "Verossa",
+            "front",
+            "engine",
+            "design",
+            "platform"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Toyota_Verossa": "Toyota Verossa"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Toyota_Verossa": "Toyota Verossa"
+        }
+    },
+    {
+        "id": "3773",
+        "question": "What are some other products of the banks which makes Postbanken?",
+        "question_preprocessed": [
+            "What",
+            "product",
+            "bank",
+            "make",
+            "Postbanken"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Postbanken": "Postbanken"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Postbanken": "Postbanken"
+        }
+    },
+    {
+        "id": "4635",
+        "question": "What is the occupation of the Irving Chernev and Karen Grigorian?",
+        "question_preprocessed": [
+            "What",
+            "occupation",
+            "Irving",
+            "Chernev",
+            "Karen",
+            "Grigorian"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Irving_Chernev": "Irving Chernev",
+            "http://dbpedia.org/resource/Karen_Grigorian": "Karen Grigorian"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Irving_Chernev": "Irving Chernev",
+            "http://dbpedia.org/resource/Karen_Grigorian": "Karen Grigorian"
+        }
+    },
+    {
+        "id": "3161",
+        "question": "Who produces the trains operated by the MTR?",
+        "question_preprocessed": [
+            "Who",
+            "produce",
+            "train",
+            "operated",
+            "MTR"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/MTR": "MTR"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/MTR": "MTR"
+        }
+    },
+    {
+        "id": "2659",
+        "question": "Name the TV show with distributor as Broadcast syndication and has theme music composed by Primus ?",
+        "question_preprocessed": [
+            "Name",
+            "TV",
+            "show",
+            "distributor",
+            "Broadcast",
+            "syndication",
+            "theme",
+            "music",
+            "composed",
+            "Primus"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Broadcast_syndication": "Broadcast syndication",
+            "http://dbpedia.org/resource/Theme_music": "theme music",
+            "http://dbpedia.org/resource/Primus_of_the_Scottish_Episcopal_Church": "Primus"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Broadcast_syndication": "Broadcast syndication",
+            "http://dbpedia.org/resource/Theme_music": "theme music",
+            "http://dbpedia.org/resource/Primus_of_the_Scottish_Episcopal_Church": "Primus"
+        }
+    },
+    {
+        "id": "4615",
+        "question": "In which countries can i find some feminist writers?",
+        "question_preprocessed": [
+            "In",
+            "country",
+            "find",
+            "feminist",
+            "writer"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Feminism": "feminist"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Feminism": "feminist"
+        }
+    },
+    {
+        "id": "4628",
+        "question": "In which teams did anyone who played as a defencemen, play previously?",
+        "question_preprocessed": [
+            "In",
+            "team",
+            "anyone",
+            "played",
+            "defencemen",
+            "play",
+            "previously"
+        ],
+        "named_entities": {},
+        "named_entities_preprocessed": {}
+    },
+    {
+        "id": "2451",
+        "question": "What are the other band member of the Bands whose current members is Hynief?",
+        "question_preprocessed": [
+            "What",
+            "band",
+            "member",
+            "Bands",
+            "whose",
+            "current",
+            "member",
+            "Hynief"
+        ],
+        "named_entities": {},
+        "named_entities_preprocessed": {}
+    },
+    {
+        "id": "2846",
+        "question": "Which line of the Vadodara Junction railway station is the route end of Mumbai Vadodara Expressway ?",
+        "question_preprocessed": [
+            "Which",
+            "line",
+            "Vadodara",
+            "Junction",
+            "railway",
+            "station",
+            "route",
+            "end",
+            "Mumbai",
+            "Vadodara",
+            "Expressway"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Vadodara_Junction_railway_station": "Vadodara Junction railway station",
+            "http://dbpedia.org/resource/Mumbai_Vadodara_Expressway": "Mumbai Vadodara Expressway"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Vadodara_Junction_railway_station": "Vadodara Junction railway station",
+            "http://dbpedia.org/resource/Mumbai_Vadodara_Expressway": "Mumbai Vadodara Expressway"
+        }
+    },
+    {
+        "id": "1144",
+        "question": "Who authored the works published in the Jump Square Magazine?",
+        "question_preprocessed": [
+            "Who",
+            "authored",
+            "work",
+            "published",
+            "Jump",
+            "Square",
+            "Magazine"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Jump_Square": "Jump Square"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Jump_Square": "Jump Square"
+        }
+    },
+    {
+        "id": "3078",
+        "question": "How many things are aired on BBC HD?",
+        "question_preprocessed": [
+            "How",
+            "many",
+            "thing",
+            "aired",
+            "BBC",
+            "HD"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/BBC": "BBC",
+            "http://dbpedia.org/resource/High-definition_television": "HD"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/BBC": "BBC",
+            "http://dbpedia.org/resource/High-definition_television": "HD"
+        }
+    },
+    {
+        "id": "1103",
+        "question": "Which work of Craig van Tilbury is close to the area of The Chess Monthyl ?",
+        "question_preprocessed": [
+            "Which",
+            "work",
+            "Craig",
+            "van",
+            "Tilbury",
+            "close",
+            "area",
+            "The",
+            "Chess",
+            "Monthyl"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Craig_Van_Tilbury": "Craig van Tilbury"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Craig_Van_Tilbury": "Craig van Tilbury"
+        }
+    },
+    {
+        "id": "168",
+        "question": "Where does the successor of Thongsuk Samdaengpan reside?",
+        "question_preprocessed": [
+            "Where",
+            "successor",
+            "Thongsuk",
+            "Samdaengpan",
+            "reside"
+        ],
+        "named_entities": {},
+        "named_entities_preprocessed": {}
+    },
+    {
+        "id": "1670",
+        "question": "What is the location city of the Denver Broncos which is also  place of birth of the William C. Cramer ?",
+        "question_preprocessed": [
+            "What",
+            "location",
+            "city",
+            "Denver",
+            "Broncos",
+            "also",
+            "place",
+            "birth",
+            "William",
+            "C",
+            "Cramer"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/City": "city",
+            "http://dbpedia.org/resource/Denver_Broncos": "Denver Broncos",
+            "http://dbpedia.org/resource/Pieter_Cramer": "Cramer"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/City": "city",
+            "http://dbpedia.org/resource/Denver_Broncos": "Denver Broncos",
+            "http://dbpedia.org/resource/Pieter_Cramer": "Cramer"
+        }
+    },
+    {
+        "id": "2570",
+        "question": "Was Mark Twain a character of Mark Twain Tonight?",
+        "question_preprocessed": [
+            "Was",
+            "Mark",
+            "Twain",
+            "character",
+            "Mark",
+            "Twain",
+            "Tonight"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Mark_Twain": "Mark Twain",
+            "http://dbpedia.org/resource/Mark_Twain_Tonight": "Mark Twain Tonight"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Mark_Twain": "Mark Twain",
+            "http://dbpedia.org/resource/Mark_Twain_Tonight": "Mark Twain Tonight"
+        }
+    },
+    {
+        "id": "2377",
+        "question": "List bacteria whose order (taxonomy) is Bacillales and domain is Bacteria?",
+        "question_preprocessed": [
+            "List",
+            "bacteria",
+            "whose",
+            "order",
+            "taxonomy",
+            "Bacillales",
+            "domain",
+            "Bacteria"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Bacteria": "Bacteria",
+            "http://dbpedia.org/resource/Linnaean_taxonomy": "taxonomy",
+            "http://dbpedia.org/resource/Bacillales": "Bacillales"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Bacteria": "Bacteria",
+            "http://dbpedia.org/resource/Linnaean_taxonomy": "taxonomy",
+            "http://dbpedia.org/resource/Bacillales": "Bacillales"
+        }
+    },
+    {
+        "id": "4395",
+        "question": "What is the place of the Geography Club (play) which is also the  official residence of the Scott Berkun?",
+        "question_preprocessed": [
+            "What",
+            "place",
+            "Geography",
+            "Club",
+            "play",
+            "also",
+            "official",
+            "residence",
+            "Scott",
+            "Berkun"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Geography_Club": "Geography Club",
+            "http://dbpedia.org/resource/Official_residence": "official residence",
+            "http://dbpedia.org/resource/Scott_Berkun": "Scott Berkun"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Geography_Club": "Geography Club",
+            "http://dbpedia.org/resource/Official_residence": "official residence",
+            "http://dbpedia.org/resource/Scott_Berkun": "Scott Berkun"
+        }
+    },
+    {
+        "id": "4257",
+        "question": "What are some characters of series produced by Ricky Grevais?",
+        "question_preprocessed": [
+            "What",
+            "character",
+            "series",
+            "produced",
+            "Ricky",
+            "Grevais"
+        ],
+        "named_entities": {},
+        "named_entities_preprocessed": {}
+    },
+    {
+        "id": "3862",
+        "question": "Is the song Killing is Out, School is in belong in the The Next Step?",
+        "question_preprocessed": [
+            "Is",
+            "song",
+            "Killing",
+            "Out",
+            "School",
+            "belong",
+            "The",
+            "Next",
+            "Step"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/The_Next_Step_(2013_TV_series)": "The Next Step"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/The_Next_Step_(2013_TV_series)": "The Next Step"
+        }
+    },
+    {
+        "id": "23",
+        "question": "Which band's  former member are Kevin Jonas and Joe Jonas?",
+        "question_preprocessed": [
+            "Which",
+            "band",
+            "former",
+            "member",
+            "Kevin",
+            "Jonas",
+            "Joe",
+            "Jonas"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Kevin_Jonas": "Kevin Jonas",
+            "http://dbpedia.org/resource/Joe_Jonas": "Joe Jonas"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Kevin_Jonas": "Kevin Jonas",
+            "http://dbpedia.org/resource/Joe_Jonas": "Joe Jonas"
+        }
+    },
+    {
+        "id": "2633",
+        "question": "Count all those whose youth club was managed by Luis Enrique.",
+        "question_preprocessed": [
+            "Count",
+            "whose",
+            "youth",
+            "club",
+            "managed",
+            "Luis",
+            "Enrique"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Luis_Enrique_(footballer)": "Luis Enrique"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Luis_Enrique_(footballer)": "Luis Enrique"
+        }
+    },
+    {
+        "id": "3340",
+        "question": "Is camel  of the chordate phylum?",
+        "question_preprocessed": [
+            "Is",
+            "camel",
+            "chordate",
+            "phylum"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Camel": "camel",
+            "http://dbpedia.org/resource/Chordate": "chordate",
+            "http://dbpedia.org/resource/Phylum": "phylum"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Camel": "camel",
+            "http://dbpedia.org/resource/Chordate": "chordate",
+            "http://dbpedia.org/resource/Phylum": "phylum"
+        }
+    },
+    {
+        "id": "2215",
+        "question": "What is the purpose of the Maharashtra Chess Association which is genere of PyChess?",
+        "question_preprocessed": [
+            "What",
+            "purpose",
+            "Maharashtra",
+            "Chess",
+            "Association",
+            "genere",
+            "PyChess"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Maharashtra_Chess_Association": "Maharashtra Chess Association",
+            "http://dbpedia.org/resource/PyChess": "PyChess"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Maharashtra_Chess_Association": "Maharashtra Chess Association",
+            "http://dbpedia.org/resource/PyChess": "PyChess"
+        }
+    },
+    {
+        "id": "3682",
+        "question": "Whose former teams are Indianapolis Colts and Carolina Panthers?",
+        "question_preprocessed": [
+            "Whose",
+            "former",
+            "team",
+            "Indianapolis",
+            "Colts",
+            "Carolina",
+            "Panthers"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Indianapolis_Colts": "Indianapolis Colts",
+            "http://dbpedia.org/resource/Carolina_Panthers": "Carolina Panthers"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Indianapolis_Colts": "Indianapolis Colts",
+            "http://dbpedia.org/resource/Carolina_Panthers": "Carolina Panthers"
+        }
+    },
+    {
+        "id": "4724",
+        "question": "In which language is All I need is Your Sweet lovin written ?",
+        "question_preprocessed": [
+            "In",
+            "language",
+            "All",
+            "I",
+            "need",
+            "Your",
+            "Sweet",
+            "lovin",
+            "written"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/The_Sweet": "Sweet"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/The_Sweet": "Sweet"
+        }
+    },
+    {
+        "id": "1907",
+        "question": "Which colonel consort is Dolley Madison?",
+        "question_preprocessed": [
+            "Which",
+            "colonel",
+            "consort",
+            "Dolley",
+            "Madison"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Colonel": "colonel",
+            "http://dbpedia.org/resource/Dolley_Madison": "Dolley Madison"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Colonel": "colonel",
+            "http://dbpedia.org/resource/Dolley_Madison": "Dolley Madison"
+        }
+    },
+    {
+        "id": "84",
+        "question": "Which title of Zaman Shah Durrani is also the nationality of Salahuddin ?",
+        "question_preprocessed": [
+            "Which",
+            "title",
+            "Zaman",
+            "Shah",
+            "Durrani",
+            "also",
+            "nationality",
+            "Salahuddin"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Zaman_Shah_Durrani": "Zaman Shah Durrani"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Zaman_Shah_Durrani": "Zaman Shah Durrani"
+        }
+    },
+    {
+        "id": "227",
+        "question": "Does the merlin express have a hub at the cibano international airport?",
+        "question_preprocessed": [
+            "Does",
+            "merlin",
+            "express",
+            "hub",
+            "cibano",
+            "international",
+            "airport"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Merlin_Express": "merlin express",
+            "http://dbpedia.org/resource/International_airport": "international"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Merlin_Express": "merlin express",
+            "http://dbpedia.org/resource/International_airport": "international"
+        }
+    },
+    {
+        "id": "296",
+        "question": "Was Duanne Allman known to play the Les Paul?",
+        "question_preprocessed": [
+            "Was",
+            "Duanne",
+            "Allman",
+            "known",
+            "play",
+            "Les",
+            "Paul"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Les_Paul": "Les Paul"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Les_Paul": "Les Paul"
+        }
+    },
+    {
+        "id": "1001",
+        "question": "List the judges of Rising Star which is also the artist of Brad Paisley discography ?",
+        "question_preprocessed": [
+            "List",
+            "judge",
+            "Rising",
+            "Star",
+            "also",
+            "artist",
+            "Brad",
+            "Paisley",
+            "discography"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/AFL_Rising_Star": "Rising Star",
+            "http://dbpedia.org/resource/Brad_Paisley": "Brad Paisley"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/AFL_Rising_Star": "Rising Star",
+            "http://dbpedia.org/resource/Brad_Paisley": "Brad Paisley"
+        }
+    },
+    {
+        "id": "2138",
+        "question": "Who are some people whose relation is hqed in Gold Base?",
+        "question_preprocessed": [
+            "Who",
+            "people",
+            "whose",
+            "relation",
+            "hqed",
+            "Gold",
+            "Base"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Gold_Base": "Gold Base"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Gold_Base": "Gold Base"
+        }
+    },
+    {
+        "id": "711",
+        "question": "Which party does Iqbal Singh and B Shiva Rao currently belong to?",
+        "question_preprocessed": [
+            "Which",
+            "party",
+            "Iqbal",
+            "Singh",
+            "B",
+            "Shiva",
+            "Rao",
+            "currently",
+            "belong"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Iqbal_Singh_(spiritual_leader)": "Iqbal Singh",
+            "http://dbpedia.org/resource/Shiva": "Shiva"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Iqbal_Singh_(spiritual_leader)": "Iqbal Singh",
+            "http://dbpedia.org/resource/Shiva": "Shiva"
+        }
+    },
+    {
+        "id": "2801",
+        "question": "In which state is the alma mater of Ben Ysursa located ?",
+        "question_preprocessed": [
+            "In",
+            "state",
+            "alma",
+            "mater",
+            "Ben",
+            "Ysursa",
+            "located"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Alma_mater": "alma mater",
+            "http://dbpedia.org/resource/Ben_Ysursa": "Ben Ysursa"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Alma_mater": "alma mater",
+            "http://dbpedia.org/resource/Ben_Ysursa": "Ben Ysursa"
+        }
+    },
+    {
+        "id": "2527",
+        "question": "What sport amongst the one Lagos Preparatory School practices, did Willian Garne play for?",
+        "question_preprocessed": [
+            "What",
+            "sport",
+            "amongst",
+            "one",
+            "Lagos",
+            "Preparatory",
+            "School",
+            "practice",
+            "Willian",
+            "Garne",
+            "play"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Lagos_Preparatory_School": "Lagos Preparatory School",
+            "http://dbpedia.org/resource/Willian_(footballer,_born_1988)": "Willian"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Lagos_Preparatory_School": "Lagos Preparatory School",
+            "http://dbpedia.org/resource/Willian_(footballer,_born_1988)": "Willian"
+        }
+    },
+    {
+        "id": "3752",
+        "question": "What are the beverages whose origin is England?",
+        "question_preprocessed": [
+            "What",
+            "beverage",
+            "whose",
+            "origin",
+            "England"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/England": "England"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/England": "England"
+        }
+    },
+    {
+        "id": "3321",
+        "question": "Which current member of Insect vs Robots is also the music composer of Kenny Dies ?",
+        "question_preprocessed": [
+            "Which",
+            "current",
+            "member",
+            "Insect",
+            "v",
+            "Robots",
+            "also",
+            "music",
+            "composer",
+            "Kenny",
+            "Dies"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Insect": "Insect",
+            "http://dbpedia.org/resource/Composer": "composer",
+            "http://dbpedia.org/resource/Kenny_Dies": "Kenny Dies"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Insect": "Insect",
+            "http://dbpedia.org/resource/Composer": "composer",
+            "http://dbpedia.org/resource/Kenny_Dies": "Kenny Dies"
+        }
+    },
+    {
+        "id": "3181",
+        "question": "What are the television shows whose distributer is HBO?",
+        "question_preprocessed": [
+            "What",
+            "television",
+            "show",
+            "whose",
+            "distributer",
+            "HBO"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/HBO": "HBO"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/HBO": "HBO"
+        }
+    },
+    {
+        "id": "4183",
+        "question": "What is the distributing label of StandBy Records ?",
+        "question_preprocessed": [
+            "What",
+            "distributing",
+            "label",
+            "StandBy",
+            "Records"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/StandBy_Records": "StandBy Records"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/StandBy_Records": "StandBy Records"
+        }
+    },
+    {
+        "id": "1615",
+        "question": "Who is the film star of On Air with Ryan Seacrest ?",
+        "question_preprocessed": [
+            "Who",
+            "film",
+            "star",
+            "On",
+            "Air",
+            "Ryan",
+            "Seacrest"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/On_Air_with_Ryan_Seacrest": "On Air",
+            "http://dbpedia.org/resource/Ryan_Seacrest": "Ryan Seacrest"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/On_Air_with_Ryan_Seacrest": "On Air",
+            "http://dbpedia.org/resource/Ryan_Seacrest": "Ryan Seacrest"
+        }
+    },
+    {
+        "id": "3024",
+        "question": "Who have children named James Roosevelt and Franklin Delano Roosevelt, Jr.?",
+        "question_preprocessed": [
+            "Who",
+            "child",
+            "named",
+            "James",
+            "Roosevelt",
+            "Franklin",
+            "Delano",
+            "Roosevelt",
+            "Jr"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/James_Roosevelt_I": "James Roosevelt",
+            "http://dbpedia.org/resource/Franklin_Delano_Roosevelt_Jr.": "Franklin Delano Roosevelt, Jr."
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/James_Roosevelt_I": "James Roosevelt",
+            "http://dbpedia.org/resource/Franklin_D._Roosevelt": "Franklin Delano Roosevelt"
+        }
+    },
+    {
+        "id": "1413",
+        "question": "In how many different places does Canal and River Trust own its assets?",
+        "question_preprocessed": [
+            "In",
+            "many",
+            "different",
+            "place",
+            "Canal",
+            "River",
+            "Trust",
+            "asset"
+        ],
+        "named_entities": {},
+        "named_entities_preprocessed": {}
+    },
+    {
+        "id": "763",
+        "question": "Count the total number of launch site of the rockets which have been launched form Cape Canaveral Air Force Station ?",
+        "question_preprocessed": [
+            "Count",
+            "total",
+            "number",
+            "launch",
+            "site",
+            "rocket",
+            "launched",
+            "form",
+            "Cape",
+            "Canaveral",
+            "Air",
+            "Force",
+            "Station"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Cape_Canaveral_Air_Force_Station": "Cape Canaveral Air Force Station"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Rocket": "rocket",
+            "http://dbpedia.org/resource/Cape_Canaveral_Air_Force_Station": "Cape Canaveral Air Force Station"
+        }
+    },
+    {
+        "id": "655",
+        "question": "List some leaders of regions in the Indian Standard Time Zone?",
+        "question_preprocessed": [
+            "List",
+            "leader",
+            "region",
+            "Indian",
+            "Standard",
+            "Time",
+            "Zone"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Indian_Standard_Time": "Indian Standard Time"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Indian_Standard_Time": "Indian Standard Time"
+        }
+    },
+    {
+        "id": "4797",
+        "question": "Name some comic characters created by Bruce Timm?",
+        "question_preprocessed": [
+            "Name",
+            "comic",
+            "character",
+            "created",
+            "Bruce",
+            "Timm"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Bruce_Timm": "Bruce Timm"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Bruce_Timm": "Bruce Timm"
+        }
+    },
+    {
+        "id": "3849",
+        "question": "Which university attended by Franklin W. Olin was also the alma mater of Patty Lin ?",
+        "question_preprocessed": [
+            "Which",
+            "university",
+            "attended",
+            "Franklin",
+            "W",
+            "Olin",
+            "also",
+            "alma",
+            "mater",
+            "Patty",
+            "Lin"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Benjamin_Franklin": "Franklin",
+            "http://dbpedia.org/resource/Alma_mater": "alma mater",
+            "http://dbpedia.org/resource/Patty_Lin": "Patty Lin"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Benjamin_Franklin": "Franklin",
+            "http://dbpedia.org/resource/Alma_mater": "alma mater",
+            "http://dbpedia.org/resource/Patty_Lin": "Patty Lin"
+        }
+    },
+    {
+        "id": "4153",
+        "question": "Whihc associate of THomas Bryan Martin is also the founder of Pittsburgh ?",
+        "question_preprocessed": [
+            "Whihc",
+            "associate",
+            "THomas",
+            "Bryan",
+            "Martin",
+            "also",
+            "founder",
+            "Pittsburgh"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Pittsburgh": "Pittsburgh"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Pittsburgh": "Pittsburgh"
+        }
+    },
+    {
+        "id": "468",
+        "question": "Who gives the license of WXXV-DT2 ?",
+        "question_preprocessed": [
+            "Who",
+            "give",
+            "license",
+            "WXXVDT2"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/WXXV-DT2": "WXXV-DT2"
+        },
+        "named_entities_preprocessed": {}
+    },
+    {
+        "id": "157",
+        "question": "Count the number of sports played by schools which play hockey ?",
+        "question_preprocessed": [
+            "Count",
+            "number",
+            "sport",
+            "played",
+            "school",
+            "play",
+            "hockey"
+        ],
+        "named_entities": {},
+        "named_entities_preprocessed": {}
+    },
+    {
+        "id": "1295",
+        "question": "List the tomb of the royalties whose burial place is Little Easton ?",
+        "question_preprocessed": [
+            "List",
+            "tomb",
+            "royalty",
+            "whose",
+            "burial",
+            "place",
+            "Little",
+            "Easton"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Little_Easton": "Little Easton"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Little_Easton": "Little Easton"
+        }
+    },
+    {
+        "id": "497",
+        "question": "What are some relatives of the people who fought in Operation Barbarossa?",
+        "question_preprocessed": [
+            "What",
+            "relative",
+            "people",
+            "fought",
+            "Operation",
+            "Barbarossa"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Operation_Barbarossa": "Operation Barbarossa"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Operation_Barbarossa": "Operation Barbarossa"
+        }
+    },
+    {
+        "id": "4740",
+        "question": "How many awards have been given to screenwriters?",
+        "question_preprocessed": [
+            "How",
+            "many",
+            "award",
+            "given",
+            "screenwriter"
+        ],
+        "named_entities": {},
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Screenwriter": "screenwriter"
+        }
+    },
+    {
+        "id": "2940",
+        "question": "Who is the builder of Estadio Nacional de Costa Rica (2011) ?",
+        "question_preprocessed": [
+            "Who",
+            "builder",
+            "Estadio",
+            "Nacional",
+            "de",
+            "Costa",
+            "Rica",
+            "2011"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Estadio_Nacional_de_Costa_Rica_(2011)": "Estadio Nacional de Costa Rica (2011)"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Estadio_Nacional_de_Costa_Rica_(2011)": "Estadio Nacional de Costa Rica"
+        }
+    },
+    {
+        "id": "3456",
+        "question": "How many software run on operating system is Microsoft Windows?",
+        "question_preprocessed": [
+            "How",
+            "many",
+            "software",
+            "run",
+            "operating",
+            "system",
+            "Microsoft",
+            "Windows"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Operating_system": "operating system",
+            "http://dbpedia.org/resource/Microsoft_Windows": "Windows"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Operating_system": "operating system",
+            "http://dbpedia.org/resource/Microsoft_Windows": "Windows"
+        }
+    },
+    {
+        "id": "373",
+        "question": "What is the awards given to the horse whose grandson is the famous Counterpoint?",
+        "question_preprocessed": [
+            "What",
+            "award",
+            "given",
+            "horse",
+            "whose",
+            "grandson",
+            "famous",
+            "Counterpoint"
+        ],
+        "named_entities": {
+            "http://dbpedia.org/resource/Horse": "horse",
+            "http://dbpedia.org/resource/Counterpoint": "Counterpoint"
+        },
+        "named_entities_preprocessed": {
+            "http://dbpedia.org/resource/Horse": "horse",
+            "http://dbpedia.org/resource/Counterpoint": "Counterpoint"
+        }
+    },
+    {
+        "id": "79",
+        "question": "Where is the swedish covenant hospital?",
+        "question_preprocessed": [
+            "Where",
+            "swedish",
+            "covenant",
+            "hospital"
+        ],
+        "named_entities": {},
+        "named_entities_preprocessed": {}
+    }
+]
